@@ -1,32 +1,26 @@
-/build
-config.h
-Makefile
-Makefile.in
-stamp-h
-stamp-h[0-9]*
-config.cache
-config.*
-compile
-configure
-configure.lineno
-cmatrix.spec
-depcomp
-install-sh
-missing
-aclocal.m4
-autom4te.cache/
-.deps
-*.tab.c
-TAGS
-ID
-GTAGS GRTAGS GSYMS GPATH tags
-cscope.out
-cscope.in.out
-cscope.po.out
-cscope.files
-cmatrix
+# Build output
 cmatrix.exe
+*.obj
 *.o
-*.core
-CMakeCache.txt
-CMakeFiles/
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Build directories
+/build/
+/out/
+
+# IDE / editor
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+*.swp
+*~
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
