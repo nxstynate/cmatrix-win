@@ -4,7 +4,7 @@ A native Windows port of [CMatrix](https://github.com/abishekvashok/cmatrix) —
 
 Built entirely on the **Win32 Console API** with **Virtual Terminal Sequence** support. No ncurses, no PDCurses, no Cygwin, no MSYS, no WSL. One C file, zero dependencies — just compile and run.
 
-[Image](./example.png)
+![Image](./example.jpg)
 
 ---
 
