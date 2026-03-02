@@ -6,12 +6,6 @@ Built entirely on the **Win32 Console API** with **Virtual Terminal Sequence** s
 
 ---
 
-## Quick Start
-
-If you just want to run it, grab `cmatrix.exe` from [Releases](../../releases) and open it in any terminal.
-
----
-
 ## Building from Source
 
 You need **one** of the following C compilers installed. Pick whichever you already have.
